@@ -14,3 +14,4 @@ plt.xlabel("Dia")
 plt.ylabel("Preço (R$)")
 plt.savefig("gasolina.png")
 plt.show()
+#tudo certo
